@@ -1,4 +1,4 @@
-# TinyBASIC-EMU
+# TinyBASIC for EMU
 Tiny BASIC for MEZ68008
 
 Personal use only
