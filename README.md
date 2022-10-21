@@ -1,11 +1,20 @@
 # TinyBASIC for EMU
-Tiny BASIC for MEZ68008
+Tiny BASIC for EMUZ80-68008
 
 Personal use only
 
 ## Assembler  
 Macro Assembler 1.42 Beta [Bld 229]
 
+
+## Address Map
+```
+0x0000 - 0x3FFF  ROM
+0x8000 - 0x9FFF  RAM
+
+0xE000   ACIAD
+0xE001   ACIAC
+```
 
 ------------------------------------------------------------------------
 ```
