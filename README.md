@@ -1,10 +1,11 @@
 # TinyBASIC-EMU
 Tiny BASIC for MEZ68008
 
+Personal use only
+
 ## Assembler  
 Macro Assembler 1.42 Beta [Bld 229]
 
-Personal use only
 
 ```
 ******************************************************************
